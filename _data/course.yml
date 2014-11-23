@@ -1,10 +1,10 @@
 title: 语文氧吧
-description: Build Your Very Own Open Course
-modules: [start, community, learning, content, feedback, references]
+description: 教育植根于爱
+modules: [开始, 理念, 特色, 大纲, 教研成果, 参考]
 signups:
  - name: Dirk Uys
    image: http://thebacklog.net/img/profile.jpeg
-   twitter: riskycud
+   weibo: riskycud
    github_username: dirkcuys
  - name: Vanessa Gennarelli
    image: https://pbs.twimg.com/profile_images/524237611104088064/7t-h08zy_400x400.jpeg
